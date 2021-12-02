@@ -6,6 +6,8 @@ import java.util.Scanner;
  * input: C
  * output: b
  * Nhập vào chữ cái hoa, in ra chữ cái thường liên trước chữ hoa đó.
+ * Note: Làm cách nào để chặn giá trị đầu vào của nó
+ *
  */
 public class Main {
     public static void main(String[] args) {
